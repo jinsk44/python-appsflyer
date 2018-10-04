@@ -29,3 +29,5 @@ MIT
 ## Author
 
 [ariarijp](https://github.com/ariarijp)
+
+[jinsk44](https://github.com/jinsk44)
